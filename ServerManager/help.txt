@@ -1,0 +1,1 @@
+to install this. download ServerManager.py and put it in its directory. then launch it. it will create directory to store your servers and setup everything if needed. and then u can use it.
